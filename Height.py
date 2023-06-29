@@ -1,3 +1,3 @@
-Height=1.43m
-print (Height)
-1.43m
+print('Hello')
+person= input('Enter your height')
+print(person)

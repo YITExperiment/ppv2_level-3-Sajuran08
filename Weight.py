@@ -1,3 +1,3 @@
-Weight= 31.7kg
-print (Weight)
-31.7kg
+print('Hello')
+person= input('Enter your Weight')
+print(person)
